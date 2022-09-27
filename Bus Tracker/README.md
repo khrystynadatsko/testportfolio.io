@@ -1,5 +1,5 @@
-# Real-time MBTA bus locations
-This app gathers the current location for every MBTA bus currently on the road, per the MBTA API information, and prints it to the map. The locations will update every 20 seconds.
+# Real-time bus locations
+This app gathers the current location for every bus currently on the road, per the API information, and prints it to the map. 
 
 # How to run it
 You can run it via my own portfolio website.
